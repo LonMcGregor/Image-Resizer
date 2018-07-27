@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Image Resizer</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="manifest" href="manifest.json">
+    </head>
+    <body>
+
+        <header>
+            <h1>Image Resizer</h1>
+        </header>
+
+        <form>
+            <fieldset>
+                <legend>
+                    <input type="radio" name="resizeType" id="dimensions"/>
+                    <label for="dimensions">Set Dimensions</label>
+                </legend>
+                <label for="width">Width</label>
+                <input type="number" id="width" min="1" step="1"/>
+
+                <label for="height">Height</label>
+                <input type="number" id="height" min="1" step="1"/>
+            </fieldset>
+
+            <br/>
+            <fieldset>
+                <legend>
+                    <input type="radio" name="resizeType" id="longside"/>
+                    <label for="longside">Set Longest Side</label>
+                </legend>
+                <label for="longLength">Length</label>
+                <input type="number" id="longLength" min="1" step="1"/>
+            </fieldset>
+
+            <br/>
+            <fieldset>
+                <legend>
+                    <input type="radio" name="resizeType" id="percentage" checked/>
+                    <label for="percentage">Percentage</label>
+                </legend>
+                <label for="value">Value</label>
+                <input type="number" id="value" min="0" max="100" value="100"/>
+            </fieldset>
+
+            <br/>
+            <fieldset>
+                <legend>Choose an Image</legend>
+                <input type="file" id="choose" accept="image/*"/>
+                <br/>
+                <canvas id="preview" height="100" width="100"></canvas>
+            </fieldset>
+
+            <br/>
+            <fieldset>
+                <legend>Export</legend>
+                <button id="png">As PNG</button>
+                <br/>
+                <button id="jpeg">As JPEG</button>
+                <label for="quality">JPEG Quality</label>
+                <input type="number" id="quality" min="0" max="100" value="90"/>
+            </fieldset>
+        </form>
+
+        <script src="js/main.js"></script>
+        <script src="js/install.js"></script>
+    </body>
+</html>

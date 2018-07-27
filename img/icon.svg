@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-2719.3569"
+     inkscape:cy="-67.056313"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="115"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53331)">
+    <rect
+       style="opacity:1;fill:#8078ed;fill-opacity:1;stroke:none;stroke-width:3.39963126;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="161.53331"
+       ry="20.579754" />
+    <g
+       id="g837"
+       transform="translate(-1.1576244,-0.26930721)">
+      <rect
+         ry="0"
+         y="189.84845"
+         x="29.203457"
+         height="79.375"
+         width="79.375"
+         id="rect817"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.52063668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect819"
+         d="m 36.323473,196.96845 h 65.134967 v 65.13497 L 86.179565,233.60653 71.909597,252.38534 54.298134,224.13 36.323473,262.10342 Z"
+         style="opacity:1;fill:#8078ed;fill-opacity:1;stroke:none;stroke-width:1.24783134;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="6.5685263"
+         cy="217.88095"
+         cx="76.60527"
+         id="path822"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.4745847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.14523697px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.77863097"
+       x="-197.71417"
+       y="219.73163"
+       id="text845"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="-197.71417"
+         y="219.73163"
+         style="fill:#ffffff;stroke-width:0.77863097">➡</tspan></text>
+    <text
+       transform="rotate(135)"
+       id="text853"
+       y="-201.14998"
+       x="30.634827"
+       style="font-style:normal;font-weight:normal;font-size:31.14523697px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.77863097"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.77863097"
+         y="-201.14998"
+         x="30.634827"
+         id="tspan851"
+         sodipodi:role="line">➡</tspan></text>
+  </g>
+</svg>

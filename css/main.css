@@ -1,0 +1,20 @@
+:root {
+    --theme: #8078ed;
+}
+
+body {
+    margin: 0px;
+    background: white;
+}
+
+header {
+    background: var(--theme);
+    color: white;
+    font-family: sans-serif;
+    padding:3px;
+}
+
+#preview {
+    border: 1px solid var(--theme);
+    margin: 4px;
+}
